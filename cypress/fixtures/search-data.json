@@ -1,0 +1,31 @@
+{
+  "devices": [
+    {
+      "name": "iPhone 16",
+      "category": "Mobile Phones",
+      "expectedTitle": "iPhone"
+    },
+    {
+      "name": "Samsung Galaxy Note 21",
+      "category": "Mobile Phones",
+      "expectedTitle": "Samsung Galaxy"
+    },
+    {
+      "name": "Google Pixel 8",
+      "category": "Mobile Phones",
+      "expectedTitle": "Pixel"
+    },
+    {
+      "name": "OnePlus 12",
+      "category": "Mobile Phones",
+      "expectedTitle": "OnePlus"
+    }
+  ],
+  "sportingGoods": [
+    {
+      "name": "Nike football boots",
+      "category": "Sports",
+      "expectedTitle": "Nike"
+    }
+  ]
+} 
